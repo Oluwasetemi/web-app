@@ -23,5 +23,5 @@
 /vendor/
 /Godeps/
 
+./gowiki
 # End of https://www.toptal.com/developers/gitignore/api/go
-gowiki
